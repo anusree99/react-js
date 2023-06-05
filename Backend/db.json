@@ -1,0 +1,50 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "dhoni"
+    },
+    {
+      "name": "anusha",
+      "salary": "50000",
+      "company": "tcs",
+      "id": 2
+    },
+    {
+      "name": "surya kumar",
+      "salary": "10000000",
+      "company": "cricket",
+      "id": 3
+    },
+    {
+      "name": "maxwell",
+      "salary": "5000000",
+      "company": "australia",
+      "id": 4
+    },
+    {
+      "name": "warner",
+      "salary": "9000000",
+      "company": "hyderabad",
+      "id": 5
+    },
+    {
+      "name": "duplesis",
+      "salary": "50000",
+      "company": "south africa",
+      "id": 7
+    },
+    {
+      "name": "m.s dhoni",
+      "salary": "777777777718",
+      "company": "wicket keeper",
+      "id": 8
+    },
+    {
+      "name": "manju alias supriya",
+      "salary": "50000",
+      "company": "tcs",
+      "id": 9
+    }
+  ]
+}
